@@ -1,0 +1,101 @@
+ID,Age,Gender,Education Level,Income,Satisfaction Rating,Purchased Product
+1,19.0,Female,Master's,69856.0,,Yes
+2,26.0,Male,PhD,58974.0,3.0,No
+3,52.0,Male,PhD,101399.0,9.0,No
+4,20.0,Male,High School,117004.0,5.0,No
+5,32.0,Male,PhD,47235.0,8.0,Yes
+6,63.0,Male,Master's,30641.0,6.0,
+7,55.0,Male,PhD,92350.0,2.0,Yes
+8,18.0,Female,PhD,73545.0,4.0,No
+9,39.0,Female,Bachelor's,81592.0,9.0,Yes
+10,39.0,Male,Master's,,7.0,Yes
+11,,Female,High School,79510.0,2.0,Yes
+12,56.0,Male,PhD,54675.0,5.0,Yes
+13,64.0,Male,PhD,91376.0,6.0,No
+14,42.0,Female,High School,54816.0,8.0,No
+15,58.0,Female,High School,,9.0,No
+16,63.0,Female,PhD,94607.0,4.0,No
+17,,Male,PhD,81433.0,8.0,Yes
+18,32.0,,Master's,55683.0,2.0,No
+19,47.0,Male,Bachelor's,98385.0,,Yes
+20,40.0,Male,Master's,116276.0,2.0,Yes
+21,62.0,Male,PhD,23390.0,9.0,No
+22,28.0,Male,PhD,108381.0,6.0,No
+23,42.0,Male,High School,108117.0,3.0,Yes
+24,58.0,Male,High School,119125.0,8.0,Yes
+25,21.0,Female,Master's,105394.0,5.0,No
+26,38.0,Male,High School,43788.0,4.0,Yes
+27,31.0,Male,High School,84451.0,4.0,Yes
+28,49.0,Male,Bachelor's,73523.0,,No
+29,59.0,Male,High School,33710.0,5.0,Yes
+30,26.0,Female,Bachelor's,110921.0,8.0,No
+31,52.0,Female,High School,72488.0,10.0,Yes
+32,45.0,Male,Bachelor's,61224.0,6.0,Yes
+33,26.0,Male,Master's,72976.0,10.0,
+34,21.0,Male,Bachelor's,91118.0,9.0,No
+35,28.0,Male,High School,44586.0,4.0,Yes
+36,42.0,Female,Bachelor's,85338.0,10.0,No
+37,47.0,Male,High School,46680.0,3.0,No
+38,18.0,Male,Master's,57752.0,3.0,Yes
+39,52.0,Female,PhD,83532.0,1.0,No
+40,39.0,Female,Bachelor's,102578.0,,Yes
+41,28.0,Female,Bachelor's,60730.0,5.0,No
+42,,Female,Master's,32217.0,7.0,Yes
+43,29.0,Male,High School,34871.0,8.0,Yes
+44,37.0,Female,High School,104896.0,9.0,No
+45,28.0,Female,PhD,113926.0,4.0,No
+46,49.0,,High School,55838.0,9.0,Yes
+47,41.0,Female,Master's,81894.0,1.0,No
+48,33.0,Male,PhD,38958.0,7.0,No
+49,49.0,Male,High School,98561.0,8.0,Yes
+50,52.0,Female,Master's,56208.0,,No
+51,48.0,,PhD,86550.0,2.0,Yes
+52,56.0,Male,PhD,57072.0,10.0,Yes
+53,52.0,Male,Master's,96011.0,10.0,No
+54,43.0,Female,PhD,78529.0,10.0,No
+55,51.0,Male,Master's,92340.0,2.0,Yes
+56,32.0,Female,Bachelor's,62176.0,4.0,No
+57,55.0,Female,High School,51300.0,8.0,Yes
+58,18.0,Female,PhD,73841.0,2.0,Yes
+59,21.0,Male,PhD,81993.0,5.0,Yes
+60,,Female,PhD,106991.0,8.0,Yes
+61,,Male,PhD,24852.0,2.0,Yes
+62,31.0,Female,Bachelor's,97356.0,6.0,Yes
+63,54.0,Male,Master's,77711.0,10.0,Yes
+64,48.0,Male,Master's,79890.0,7.0,No
+65,24.0,Female,Master's,73736.0,7.0,No
+66,44.0,Female,Bachelor's,,10.0,Yes
+67,21.0,Female,PhD,72098.0,10.0,No
+68,,Male,Bachelor's,108389.0,8.0,Yes
+69,24.0,Female,PhD,102155.0,6.0,No
+70,52.0,Female,High School,24705.0,5.0,No
+71,29.0,Male,Bachelor's,109705.0,9.0,No
+72,22.0,Male,Bachelor's,117880.0,5.0,Yes
+73,53.0,Male,Master's,32903.0,5.0,Yes
+74,52.0,Male,Master's,110964.0,3.0,Yes
+75,33.0,Male,Master's,26028.0,7.0,No
+76,48.0,Male,PhD,58452.0,1.0,Yes
+77,21.0,Female,Master's,39080.0,4.0,Yes
+78,42.0,Male,Bachelor's,94177.0,6.0,Yes
+79,47.0,Male,Bachelor's,30350.0,6.0,Yes
+80,64.0,Male,PhD,51566.0,3.0,Yes
+81,36.0,Male,Master's,38758.0,1.0,Yes
+82,55.0,Female,Bachelor's,53289.0,7.0,No
+83,21.0,Male,Master's,21231.0,7.0,No
+84,50.0,Male,High School,108815.0,9.0,
+85,50.0,Female,Bachelor's,,2.0,No
+86,22.0,Female,High School,75615.0,10.0,No
+87,33.0,Female,Bachelor's,59599.0,5.0,No
+88,54.0,Female,PhD,83335.0,10.0,No
+89,20.0,Female,High School,94963.0,5.0,Yes
+90,55.0,Female,PhD,111655.0,5.0,No
+91,31.0,Male,Master's,,1.0,Yes
+92,43.0,Female,High School,94177.0,3.0,No
+93,37.0,Female,PhD,117671.0,4.0,Yes
+94,22.0,Female,High School,57512.0,,Yes
+95,54.0,Female,High School,66179.0,,Yes
+96,,Female,High School,101381.0,10.0,No
+97,40.0,Male,Master's,114493.0,7.0,No
+98,41.0,Male,Bachelor's,102242.0,1.0,Yes
+99,52.0,Male,PhD,77779.0,10.0,No
+100,59.0,Male,Bachelor's,115991.0,6.0,No
